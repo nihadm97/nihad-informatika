@@ -27,7 +27,7 @@ header{
     background-color: rgba(39, 38, 38, 0.959);
     padding: 8px;
     min-height: 70px;
-    border-bottom: rgb(230, 70, 13) 3px solid;
+    border-bottom: #BC0E84 3px solid;
     height: 90px;
 }
 ul{
@@ -50,7 +50,7 @@ header a{
 }
 header a:hover{
     font:bold;
-    color:grey;
+    color:black;
 }
 header nav{
     float: right;
@@ -110,7 +110,7 @@ header #branding h1{
     padding: 5px;
     width: 120px;
     height: 30px;
-    background-color: rgb(230, 70, 13);
+    background-color: #BC0E84	;
     color: #fff;
     border: none;
     font-size: 15px;
@@ -192,7 +192,7 @@ aside#sidebar-2 img{
 
 footer{
     text-align: center;
-    background-color:  rgb(230, 70, 13);
+    background-color:  #6F1281;
     min-height: 50px;
     margin-top: 10px;
     padding: 10px;
